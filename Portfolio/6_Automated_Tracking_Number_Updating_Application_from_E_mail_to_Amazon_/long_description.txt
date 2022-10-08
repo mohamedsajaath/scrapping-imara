@@ -1,0 +1,36 @@
+
+ * 	
+                
+ * 	
+ * 	
+ * 	
+ * 	This is an automated application executes in background
+ * 	
+ * 	
+ * 	
+ * 	
+ * 	Amazon seller fulfills his Amazon orders with his supplier, and the supplier will email the shipping details (Shipping address, tracking number, carrier code) back to Amazon seller’s (our customer) e-mail
+ * 	
+ * 	
+ * 	
+ * 	
+ * 	Our application will periodically download open Amazon orders and stores them in applications’ database. And the same time it will access the Amazon seller’s inbox and check whether there is new email from his supplier
+ * 	
+ * 	
+ * 	
+ * 	
+ * 	If new mail exists it will read the carrier code, tracking number and shipping details from mail and match the shipping details with application database and get the actual Amazon order id
+ * 	
+ * 	
+ * 	
+ * 	
+ * 	Once successfully matched the Amazon order id application will update the tracking number and carrier code to particular Amazon order and marked that order as shipped
+ * 	
+ * 	
+ * 	
+ * 	
+ * 	NOTE : Same process has been done for eBay also
+ * 	
+ * 	
+                                
+ * 	

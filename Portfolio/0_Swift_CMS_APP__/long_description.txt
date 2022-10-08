@@ -1,0 +1,9 @@
+
+ * 	
+                
+ * 	
+ * 	This application will help the user to control the features of eBay store with only a few clicks. Just fill-up the required information and publish them in their own eBay store. No HTML experience required to do these modifications.
+ * 	
+ * 	
+                                
+ * 	

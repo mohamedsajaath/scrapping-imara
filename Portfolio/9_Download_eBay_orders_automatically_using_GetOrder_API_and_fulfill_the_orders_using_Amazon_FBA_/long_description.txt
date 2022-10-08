@@ -1,0 +1,34 @@
+
+ * 	
+                
+ * 	
+ * 	
+ * 	
+ * 	Here customer has already stored the available products from his/her eBay store to application’s database table with the product SKU and FBA SKU
+ * 	
+ * 	
+ * 	
+ * 	
+ * 	Once the order arrived to the application it will match the SKU of the eBay ordered item and lookup the FBA SKU from application database
+ * 	
+ * 	
+ * 	
+ * 	
+ * 	Once the FBA SKU found application will use Amazon Outbound Fulfillment API to fulfill the order via Amazon
+ * 	
+ * 	
+ * 	
+ * 	
+ * 	Once the order fulfilled successfully application will retrieve the carrier code and tracking number of the order and update the same to particular eBay order and marked that order as shipped
+ * 	
+ * 	
+ * 	
+ * 	
+ * 	Here we have used GetOrder,CompleteSale eBay API’s
+ * 	
+ * 	
+ * 	
+ * 	
+ * 	
+                                
+ * 	

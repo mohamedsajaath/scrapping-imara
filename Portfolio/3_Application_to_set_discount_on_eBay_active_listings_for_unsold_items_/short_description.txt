@@ -1,0 +1,1 @@
+*We have developed an application which will add auto discount percentage on active listings according to customers’ instruction.*

@@ -1,0 +1,29 @@
+
+ * 	
+                
+ * 	
+ * 	
+ * 	
+ * 	This is the application runs by a single eBay store owner he has given application access to his employees who will add listings to his eBay store
+ * 	
+ * 	
+ * 	
+ * 	
+ * 	Store owner will monitor the added listings through the application
+ * 	
+ * 	
+ * 	
+ * 	
+ * 	Here the eBay store owner is the administrator of the application and he will manage users and eBay credentials part in application. Other users don’t have these access
+ * 	
+ * 	
+ * 	
+ * 	
+ * 	In this application we have used EPS (eBay picture service) part. Which is used to host the images (both local image or remote server hosted image) on eBay image servers and get the link of the image. And this link is used in add new listing on eBay part
+ * 	
+ * 	
+ * 	
+ * 	
+ * 	
+                                
+ * 	

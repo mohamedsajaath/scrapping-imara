@@ -1,0 +1,1 @@
+*This is the application runs by a single eBay store owner he has given application access to his employees.*

@@ -1,0 +1,11 @@
+
+ * 	
+                
+ * 	
+ * 	Project requirement as follows 
+ * 	
+ * 	"I am a real estate broker working with buyers looking for investment deals. I currently have real estate listing data being saved as a CSV file in a Dropbox account. The data file is updated daily. I then run an Excel macro which asks me which files to import. After running, it produces a list of all properties that match the criteria for what is considered a "good deal" I need a web application that will not only automate this process, but allow for me to view pictures as well as the location of the properties on a map. I have found several programs that will make it easy for any experienced programmer to build. My lack of technical knowledge makes it difficult for me to come up with a solution so I would need someone to work with me to come up with a solution. I will provide additional info upon receipt of application so you will be able to tell me whether this is something you can assist me with."
+ * 	
+ * 	
+                                
+ * 	

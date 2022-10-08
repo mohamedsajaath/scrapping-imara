@@ -1,0 +1,1 @@
+*This application will help the user to control the features of eBay store with only a few clicks.*

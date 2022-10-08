@@ -1,0 +1,29 @@
+
+ * 	
+                
+ * 	
+ * 	
+ * 	
+ * 	This is application developed for update the quantity on Amazon products
+ * 	
+ * 	
+ * 	
+ * 	
+ * 	Customer will upload the SKU list to our application. Application will look up the stock status of the uploaded SKU’s from one of ecommerce site proposed by client
+ * 	
+ * 	
+ * 	
+ * 	
+ * 	According to the stock status of the SKU application will update the quantity on Amazon
+ * 	
+ * 	
+ * 	
+ * 	
+ * 	Here we have used ListOrder, ListOrderItems and SubmitFeed API
+ * 	
+ * 	
+ * 	
+ * 	
+ * 	
+                                
+ * 	

@@ -1,0 +1,41 @@
+
+ * 	
+                
+ * 	We have developed an application which will add auto discount percentage on active listings according to customers’ instruction.
+ * 	Below is the brief description and screen shot of the application
+ * 	
+ * 	
+ * 	
+ * 	
+ * 	
+ * 	
+ * 	This is an automated application which will retrieve the unsold item from the script execution time to last 30 days, 60 days and more than 60 days using GetMyeBaySelling API
+ * 	
+ * 	
+ * 	
+ * 	
+ * 	And apply the discount percentage of 5%, 10% and 15% according to unsold period
+ * 	
+ * 	
+ * 	
+ * 	
+ * 	Once the promotional time period ends the listing will back to its original price automatically
+ * 	
+ * 	
+ * 	
+ * 	
+ * 	This application will execute once in every month automatically
+ * 	
+ * 	
+ * 	
+ * 	
+ * 	We have used GetMyeBaySelling,SetPromotionalSale, SetPromotionalSaleListings and GetPromotionalSaleDetails API’s in this application
+ * 	
+ * 	
+ * 	
+ * 	
+ * 	
+ * 	
+ * 	
+                                
+ * 	

@@ -1,0 +1,76 @@
+
+ * 	
+                
+ * 	This is semi-automated web application which downloads both Amazon and eBay orders and fulfill them through Amazon FBA or 3rd party Shipping Application (EasyPost) and update the tracking and carrier code to particular orders.
+ * 	
+ * 	
+ * 	
+ * 	Below is the brief of the function of the project that we did.
+ * 	
+ * 	
+ * 	
+ * 	
+ * 	
+ * 	
+ * 	Download orders from Amazon market place is manual process in this application
+ * 	
+ * 	
+ * 	
+ * 	
+ * 	Once the user imports the orders from his Amazon marketplace rest of the process will execute automatically
+ * 	
+ * 	
+ * 	
+ * 	
+ * 	Rest of the process are.
+ * 	
+ * 	
+ * 	
+ * 	
+ * 	
+ * 	Application will decide whether the order should fulfill by Amazon FBA or EasyPost
+ * 	
+ * 	
+ * 	
+ * 	
+ * 	If it is Amazon FBA our application will send the shipping and product details to Amazon FBA using Amazon Outbound Shipping API
+ * 	
+ * 	
+ * 	
+ * 	
+ * 	Once the Outbound Shipping API process is success application will wait for the tracking number and carrier code for the completed orders through Amazon FBA
+ * 	
+ * 	
+ * 	
+ * 	
+ * 	Once it receives the tracking number and carrier code from Amazon our application will update them to particular order and mark the order as shipped
+ * 	
+ * 	
+ * 	
+ * 	
+ * 	If the application decides a particular order should fulfill through EasyPost it will keep the order in front end of the application and the user will print the shipping label through EasyPost API
+ * 	
+ * 	
+ * 	
+ * 	
+ * 	If the shipping label processing successfully done the application will update the tracking number and tracking code to particular order in back end this is an automated process
+ * 	
+ * 	
+ * 	
+ * 	
+ * 	The decision of fulfillment method will be taken by the application using the FBA SKU stored in product page. If there FBA SKU available for the ordered product that order will fulfill by Amazon FBA else by EasyPost
+ * 	
+ * 	
+ * 	
+ * 	
+ * 	
+ * 	Above application done using PHP and the same time we have done in C# also. For the C# we have used Fedex API instead of EasyPost
+ * 	
+ * 	
+ * 	
+ * 	
+ * 	
+ * 	
+ * 	
+                                
+ * 	

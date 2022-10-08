@@ -1,0 +1,34 @@
+
+ * 	
+                
+ * 	
+ * 	
+ * 	
+ * 	This is one of update done on our customer’s site. The site was already built to accommodate eBay inventory management
+ * 	
+ * 	
+ * 	
+ * 	
+ * 	We have integrated Amazon Inventory management on same system
+ * 	
+ * 	
+ * 	
+ * 	
+ * 	This application gets the products from suppliers’ FTP site and update/add the listings to Amazon with the conditions for the price and quantity already given by our customer
+ * 	
+ * 	
+ * 	
+ * 	
+ * 	And same time it is referring the same Amazon product on eBay store and update the Amazon product quantity according to eBay also
+ * 	
+ * 	
+ * 	
+ * 	
+ * 	This is a semi-automated web application
+ * 	
+ * 	
+ * 	
+ * 	
+ * 	
+                                
+ * 	
